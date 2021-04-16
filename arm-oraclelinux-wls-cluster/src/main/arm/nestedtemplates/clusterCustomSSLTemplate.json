@@ -157,7 +157,7 @@
             "defaultValue":true,
             "type": "bool",
             "metadata": {
-               "description": "Boolean value indicating, if custom SSL is enabled or not"
+                "description": "Boolean value indicating, if custom SSL is enabled or not"
             }
         },
         "keyVaultCustomIdentityKeyStoreData": {

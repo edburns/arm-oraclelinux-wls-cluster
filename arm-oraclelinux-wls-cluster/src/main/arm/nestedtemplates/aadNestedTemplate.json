@@ -132,25 +132,25 @@
             }
         },
         "enableCustomSSL": {
-           "type": "bool",
-           "defaultValue": false,
-           "metadata": {
-              "description": "Boolean value indicating, if custom SSL is enabled or not"
-           }
+            "type": "bool",
+            "defaultValue": false,
+            "metadata": {
+                "description": "Boolean value indicating, if custom SSL is enabled or not"
+            }
         },
         "keyVaultCustomTrustKeyStorePassPhrase": {
-           "type": "string",
-           "defaultValue": "null",
-           "metadata": {
-              "description": "Weblogic Custom Trust Store Passphrase"
-           }
+            "type": "string",
+            "defaultValue": "null",
+            "metadata": {
+                "description": "Weblogic Custom Trust Store Passphrase"
+            }
         },
         "keyVaultCustomTrustKeyStoreType": {
-           "type": "string",
-           "defaultValue": "null",
-           "metadata": {
-              "description": "Weblogic Custom Trust Store Type (JKS or PKCS12)"
-           }
+            "type": "string",
+            "defaultValue": "null",
+            "metadata": {
+                "description": "Weblogic Custom Trust Store Type (JKS or PKCS12)"
+            }
         }
     },
     "variables": {

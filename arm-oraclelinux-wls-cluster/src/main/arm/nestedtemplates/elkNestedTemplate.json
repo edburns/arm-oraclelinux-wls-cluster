@@ -204,7 +204,7 @@
                 }
             }
         },
-         {
+        {
             "type": "Microsoft.Compute/virtualMachines/extensions",
             "apiVersion": "${azure.apiVersion}",
             "name": "[concat(variables('const_managedCacheVMPrefix'), copyIndex(1),'/newuserscript')]",
